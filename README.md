@@ -1,4 +1,4 @@
-# Capacitacion brindada por NEORIS y Universidad Siglo XXI
+# Capacitacion brindada por y Universidad Siglo XXI
 
 En el siguiente repo compartire los proyectos que realize en la capacitacion.
 
