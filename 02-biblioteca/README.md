@@ -1,6 +1,6 @@
-La aplicación desarrollada es una biblioteca.
+# La aplicación desarrollada es una biblioteca.
 
-La aplicación permite:
+## La aplicación permite:
 
 1. Gestión de Libros:
    - Los usuarios pueden agregar nuevos libros a la biblioteca.
@@ -11,4 +11,3 @@ La aplicación permite:
    - Los usuarios deben devolver los libros
 3. Consultas y Búsquedas:
    - Los usuarios pueden buscar libros en la biblioteca por título, autor o género.
-
