@@ -1,4 +1,4 @@
-#Aplicacion de inventario de productos con DAO
+# Aplicacion de inventario de productos con DAO
 
 ## Requisitos funcionales
 
